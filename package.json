@@ -1,0 +1,19 @@
+{
+  "name": "outside-cli",
+  "version": "1.0.0",
+  "description": "A cli weather app",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snrichards/outside-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snrichards/outside-cli/issues"
+  },
+  "homepage": "https://github.com/snrichards/outside-cli#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
